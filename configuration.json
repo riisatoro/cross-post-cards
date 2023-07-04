@@ -14,7 +14,7 @@
             "name": "Anna Moon",
             "allowed_flows": [
                 "anonimiseren_algemeen_lct", "id_blur"
-            ],
+            ]
         }
     },
     "properties": {
