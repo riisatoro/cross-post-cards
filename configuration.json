@@ -112,7 +112,7 @@
       }
     },
     "output": {
-      "value": "json"
+      "value": ".txt"
     },
     "output__anonimiseren_algemeen_lct": {
       "value": [
