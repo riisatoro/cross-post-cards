@@ -18,7 +18,9 @@
       "name": "Anna Moon"
     },
     "John": {
-      "allowed_flows": [],
+      "allowed_flows": [
+        "id_blur"
+      ],
       "name": "John"
     },
     "string": {
