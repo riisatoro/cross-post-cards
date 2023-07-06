@@ -127,7 +127,7 @@
       }
     },
     "output": {
-      "file": "configuration_file.yaml"
+      "value": "string"
     },
     "output__anonimiseren_algemeen_lct": {
       "value": [
