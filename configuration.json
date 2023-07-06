@@ -31,6 +31,9 @@
     "anonimiseren_algemeen_lct_annotator_output_anna_moon": {
       "value": "string"
     },
+    "blur_color": {
+      "value": "black"
+    },
     "check_properties": {
       "value": {
         "creator": [
