@@ -16,6 +16,10 @@
         "id_blur"
       ],
       "name": "Anna Moon"
+    },
+    "John Doe": {
+      "allowed_flows": [],
+      "name": "John Doe"
     }
   },
   "output__anonimiseren_algemeen_lct": {
