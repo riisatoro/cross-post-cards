@@ -17,6 +17,10 @@
       ],
       "name": "Anna Moon"
     },
+    "John": {
+      "allowed_flows": [],
+      "name": "John"
+    },
     "string": {
       "allowed_flows": [
         "string"
