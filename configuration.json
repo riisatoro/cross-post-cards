@@ -13,7 +13,8 @@
     "Anna Moon": {
       "allowed_flows": [
         "anonimiseren_algemeen_lct",
-        "id_blur"
+        "id_blur",
+        "new_flow"
       ],
       "name": "Anna Moon"
     },
