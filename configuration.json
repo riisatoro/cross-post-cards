@@ -21,8 +21,7 @@
     "tm7": {
       "allowed_flows": [
         "background",
-        "id_blur",
-        "text_style"
+        "id_blur"
       ],
       "name": "tm7"
     }
