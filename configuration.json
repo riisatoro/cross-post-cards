@@ -19,7 +19,11 @@
       "name": "Anna Moon"
     },
     "tm7": {
-      "allowed_flows": [],
+      "allowed_flows": [
+        "background",
+        "id_blur",
+        "text_style"
+      ],
       "name": "tm7"
     }
   },
