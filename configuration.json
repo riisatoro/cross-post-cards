@@ -18,12 +18,6 @@
       ],
       "name": "Anna Moon"
     },
-    "Max": {
-      "allowed_flows": [
-        "id_blur"
-      ],
-      "name": "Max"
-    },
     "tm7": {
       "allowed_flows": [],
       "name": "tm7"
