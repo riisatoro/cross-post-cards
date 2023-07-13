@@ -17,22 +17,7 @@
         "new_flow"
       ],
       "name": "Anna Moon"
-    },
-    "John": {
-      "allowed_flows": [
-        "id_blur"
-      ],
-      "name": "John"
-    },
-    "string": {
-      "allowed_flows": [
-        "string"
-      ],
-      "name": "string"
     }
-  },
-  "output__anonimiseren_algemeen_lct": {
-    "value": "pdf"
   },
   "properties": {
     "anonimiseren_algemeen_lct": {
@@ -40,15 +25,6 @@
     },
     "anonimiseren_algemeen_lct_annotator_output_anna_moon": {
       "value": "string"
-    },
-    "background": {
-      "value": "black"
-    },
-    "blur_color": {
-      "value": "white"
-    },
-    "blur_color__id_blur__blur_content__anna_moon": {
-      "value": "black"
     },
     "check_properties": {
       "value": {
@@ -96,17 +72,7 @@
           "ARCHICAD",
           "Bluebeam",
           "AutoCAD",
-          "PDFCreator",
-          "Unknown",
-          "Abbyy"
-        ],
-        "producer": [
-          "ARCHICAD",
-          "Bluebeam",
-          "AutoCAD",
-          "PDFCreator",
-          "Unknown",
-          "Abbyy"
+          "PDFCreator"
         ]
       }
     },
@@ -115,18 +81,7 @@
         "creator": [
           "ARCHICAD",
           "Bluebeam",
-          "AutoCAD",
-          "PDFCreator",
-          "Unknown",
-          "Abbyy"
-        ],
-        "producer": [
-          "ARCHICAD",
-          "Bluebeam",
-          "AutoCAD",
-          "PDFCreator",
-          "Unknown",
-          "Abbyy"
+          "AutoCAD"
         ]
       }
     },
