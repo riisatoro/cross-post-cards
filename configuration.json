@@ -92,6 +92,9 @@
         ]
       }
     },
+    "file_property": {
+      "file": "/app/server/customerconfigurations/files/main.txt"
+    },
     "output": {
       "value": [
         "remote_conflict_value",
