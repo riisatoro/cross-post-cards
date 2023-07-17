@@ -27,6 +27,9 @@
     }
   },
   "properties": {
+    "annotator": {
+      "file": "/app/server/customerconfigurations/files/data.txt"
+    },
     "anonimiseren_algemeen_lct": {
       "value": "msg"
     },
