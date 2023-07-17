@@ -93,7 +93,7 @@
       }
     },
     "file_property": {
-      "file": "/app/server/customerconfigurations/files/main.txt"
+      "value": "empty"
     },
     "output": {
       "value": [
