@@ -95,6 +95,9 @@
         ]
       }
     },
+    "file_config": {
+      "file": "/app/server/customerconfigurations/files/fileprop.txt"
+    },
     "file_property": {
       "value": "empty"
     },
