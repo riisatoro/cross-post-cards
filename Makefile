@@ -8,4 +8,4 @@ prod:
 
 .PHONY: build server container
 build:
-	(cd src && docker build -t crosspost .)
+	(cd src && docker build .)

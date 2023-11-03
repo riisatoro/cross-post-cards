@@ -2,3 +2,5 @@ fastapi[all]
 uvicorn
 pymongo
 pydantic
+bcrypt
+pyjwt
